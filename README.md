@@ -1,5 +1,7 @@
 IoT and the Connected Home
 TOTAL POINTS 10
+
+
 1.
 Question 1
 According to Rathore et. al (2016), vehicular traffic information is the least significant source of data in a smart city.
@@ -80,6 +82,3 @@ According to Gheorghe (2016), home gadgets do not have to worry about being over
 1 point
 
 False
-
-
-Honor Code Agreement
